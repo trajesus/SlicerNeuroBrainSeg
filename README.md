@@ -1,5 +1,7 @@
 # SlicerNeuroBrainSeg
 
+## **Stil a Work in Progress**
+
 **Deep Learning-Based Brain Structure Segmentation for 3D Slicer**
 
 This extension provides automatic segmentation of brain structures using state-of-the-art deep learning models, with easy export functionality for 3D printing.
